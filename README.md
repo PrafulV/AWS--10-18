@@ -17,12 +17,14 @@ Ans)  Yes by default users does not require permissions when new users are added
 ![alt text](https://i.imgur.com/zuqPoZn.jpg)
 
 4. Web Identity Federation to AWS via Facebook or any other social sites
+
 Ans) Process of web identity federation by authenticating with identity provider 
 
 ![alt text](https://i.imgur.com/tIxIV7s.jpg)
 ![alt text](https://i.imgur.com/6FgUIDC.jpg)
 
 5. AssumeRoleWithWebIdentity API call used to obtain temporary security credentials when authenticating using Web Identity Federation?
+
 Ans) -->	Calling assumeRoleWithWebIdentity to obtain temporary security credentials
 ![alt text](https://i.imgur.com/9fQ26KL.jpg)
 -->	These credentials are valid for about 900 seconds and can be used as tokens for accessing AWS resources
