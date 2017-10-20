@@ -1,3 +1,15 @@
 # AWS--10-18
 10/18
 ![alt text](https://i.imgur.com/mBb7WQb.jpg)
+![alt text](https://i.imgur.com/kTZbA2K.jpg)
+![alt text](https://i.imgur.com/HxGpu9H.jpg)
+![alt text](https://i.imgur.com/5vkTIdn.jpg)
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
